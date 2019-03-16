@@ -1,0 +1,13 @@
+{
+  "name": "van_gogh_choice_of_color_through_his_self_portraits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d public",
+    "lazy": "git add . && git commit -m 'edit' && git push origin master"
+  },
+  "homepage": "http://yueying-teng.github.io/van_gogh_choice_of_color_through_his_self_portraits",
+  "repository": "https://github.com/yueying-teng/van_gogh_choice_of_color_through_his_self_portraits.git",
+  "author": "Teng, Yueying <Yueying.Teng@asurion.com>",
+  "license": "MIT"
+}
